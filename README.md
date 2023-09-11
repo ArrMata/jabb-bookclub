@@ -19,9 +19,9 @@ Each bookclub also contains a discussion forum, allowing for comments and posts.
 
 ## Team Involved 
 Here were my amazing teammates that were involved in this application's development!
-[Jared Carlson](https://github.com/jaredrcarlson/)
-[Rebecca Vandewater](https://github.com/RebeccaVandeWater)
-[Bailey Johnson](https://github.com/bjohnson93)
+- [Jared Carlson](https://github.com/jaredrcarlson/)
+- [Rebecca Vandewater](https://github.com/RebeccaVandeWater)
+- [Bailey Johnson](https://github.com/bjohnson93)
 
 ## What I learned
 Learning the methods and key characteristics needed to perform well in a team, such as consistent communication and good group problem solving even when possible miscommunication is involved. We tried our best to abide to SCRUM best practices such as daily standups, and sprint planning over multiple days. 
