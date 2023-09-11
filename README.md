@@ -1,4 +1,4 @@
-# jabb-bookclub
+# Jabb Bookclub
 ![Jabb Bookclub Preview Image](preview.jpg)
 
 [Jabb Bookclub Live Demo](https://jabb.arringtonm.com/)
