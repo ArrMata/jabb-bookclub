@@ -12,6 +12,8 @@ Each bookclub also contains a discussion forum, allowing for comments and posts.
 
 - VueJS for the Frontend Javascript Framework
 - Node and Express for Backend Framework
+- Google Books API
+- New York Times Best Seller API
 - RESTful API conventions in order to have consistent API naming conventions
 - MongoDB for Database
 - Auth0 for user authentication
@@ -24,5 +26,5 @@ Here were my amazing teammates that were involved in this application's developm
 - [Bailey Johnson](https://github.com/bjohnson93)
 
 ## What I learned
-Learning the methods and key characteristics needed to perform well in a team, such as consistent communication and good group problem solving even when possible miscommunication is involved. We tried our best to abide to SCRUM best practices such as daily standups, and sprint planning over multiple days. 
+Learning the methods and key characteristics needed to perform well in a team, such as consistent communication and good group problem solving even when possible miscommunication is involved. We tried our best to abide to SCRUM best practices such as daily standups, and sprint planning over multiple days. Additionally, we learned how to utilize the Google Books and New Youk Times Best Sellers API and hook into them with proper search queries and using ISBN to connect between the two APIs.
 Lastly, the scale that this project grew to allowed us to see how good project architecture allows for scalable code and how desired features later in development can require multiple changes in various parts of existing codes. This was a great experience, and really tested my full-stack abilities.
